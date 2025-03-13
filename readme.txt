@@ -47,10 +47,10 @@ If you want to contribute to this project, you can send a pull request. Thank yo
 ## 🖼️ Görseller / Images
 
 ### İlk Görsel / First Image:
-![Makima1 Görseli](https://github.com/bedirhankesim/Makima-Web-Hack/makima1.png)
+![Makima1 Görseli](https://github.com/bedirhankesim/Makima-Web-Hack/raw/main/makima1.png)
 
 ### İkinci Görsel / Second Image:
-![Makima2 Görseli](https://github.com/bedirhankesim/Makima-Web-Hack/makima2.png)
+![Makima2 Görseli](https://github.com/bedirhankesim/Makima-Web-Hack/raw/main/makimav2.png)
 
 ---
 
