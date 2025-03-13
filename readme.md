@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
-<div align="center" style="margin-left: 10px;">
+<div align="center" style="margin-left: 50px;">
   <a href="https://github.com/bedirhankesim/Makima-Web-Hack">
     <img src="https://github.com/bedirhankesim/Makima-Web-Hack/raw/main/makima1.png" alt="Makima Logo" width="200" height="200">
   </a>
