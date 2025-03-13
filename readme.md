@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/bedirhankesim/Makima-Web-Hack">
-    <img src="https://github.com/bedirhankesim/Makima-Web-Hack/raw/main/makima1.png" alt="Makima Logo" width="160" height="160">
+    <img src="https://github.com/bedirhankesim/Makima-Web-Hack/raw/main/makima1.png" alt="Makima Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Makima Web Hack</h3>
@@ -73,7 +73,7 @@ Bu projeyi bilgisayarınıza indirerek kolayca kullanabilirsiniz.
 <br />
 <div align="center">
   <a href="https://github.com/bedirhankesim/Makima-Web-Hack">
-    <img src="https://github.com/bedirhankesim/Makima-Web-Hack/raw/main/makimav2.png" alt="Makima Logo" width="160" height="160">
+    <img src="https://github.com/bedirhankesim/Makima-Web-Hack/raw/main/makimav2.png" alt="Makima Logo" width="200" height="200">
   </a>
 </div>
 
