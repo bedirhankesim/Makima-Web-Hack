@@ -24,19 +24,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">Proje Hakkında / About the Project</a></li>
-    <li><a href="#getting-started">Başlarken / Getting Started</a></li>
-    <li><a href="#usage">Kullanım / Usage</a></li>
-    <li><a href="#roadmap">Yol Haritası / Roadmap</a></li>
-    <li><a href="#contributing">Katkı / Contributing</a></li>
-    <li><a href="#license">Lisans / License</a></li>
-    <li><a href="#contact">İletişim / Contact</a></li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 ## Proje Hakkında / About the Project
