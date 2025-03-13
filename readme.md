@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
-<div style="margin-left: 5px;"> <!-- Buradaki '20px' değeri ile sağa kaydırma yapabilirsiniz -->
+<div style="position: relative; left: 20px;"> 
   <a href="https://github.com/bedirhankesim/Makima-Web-Hack">
     <img src="https://github.com/bedirhankesim/Makima-Web-Hack/raw/main/makima1.png" alt="Makima Logo" width="250" height="250">
   </a>
