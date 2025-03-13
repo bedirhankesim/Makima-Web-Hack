@@ -33,4 +33,4 @@ Katkı / Contribution
 Eğer bu projeye katkı sağlamak isterseniz, pull request gönderebilirsiniz. Katkılarınız için teşekkür ederim!
 If you want to contribute to this project, you can send a pull request. Thank you for your contributions!
 
-<img src="https://github.com/bedirhankesim/Makima-Web-Hack/makima1.png" alt="" style="width:100%; max-width:600px; display:block; margin:auto;">
+<img src="makima-web-hack/makima1.png" alt="Açıklama" style="width:100%; max-width:600px; display:block; margin:auto;">
